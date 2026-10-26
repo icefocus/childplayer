@@ -11,4 +11,12 @@
 
 政策版本：2026-10-26。APP备案号尚未取得，公开政策不代表应用已完成备案或App Store审核。
 
-仓库设置启用GitHub Pages（main分支/docs）后，网站地址为 https://icefocus.github.io/childplayer/ 。尚未启用时请直接阅读以上Markdown页面；政策内容相同。
+公开网站已启用：[儿童播放器](https://icefocus.github.io/childplayer/) 。
+
+- [隐私政策网页](https://icefocus.github.io/childplayer/privacy.html)
+- [儿童保护规则网页](https://icefocus.github.io/childplayer/children.html)
+- [用户协议网页](https://icefocus.github.io/childplayer/terms.html)
+- [使用支持网页](https://icefocus.github.io/childplayer/support.html)
+- [English Privacy Policy](https://icefocus.github.io/childplayer/en/privacy.html)
+
+GitHub Pages使用main分支/docs发布。以上网页与仓库Markdown、应用内离线政策保持相同正文。
